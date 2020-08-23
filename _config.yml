@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -35,18 +35,18 @@ author:
   avatar: "/assets/images/bio-photo.jpg"
   bio: "💯"
   location: "Zürich, Switzerland"
-  links: 
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
       url: "mailto:laura.dragoi@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/lauradragoi" 
+      url: "https://linkedin.com/in/lauradragoi"
     - label: "Instagram"
       icon: "fab fa-instagram"
-      url: "https://instagram.com/laurazrh" 
+      url: "https://instagram.com/laurazrh"
 
-include: 
+include:
   - "_pages"
 
 defaults:
@@ -73,6 +73,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -95,4 +96,3 @@ plugins:
 #   - vendor/ruby/
 #
 #
-

@@ -2,7 +2,6 @@
 layout: single
 permalink: /
 title: Bio
-canonical_url: "https://lauracd.ch/"
 ---
 
 Happy person, working as a software engineer for 15+ years on core ranking algorithms (Google Search) and mobile games development (Electronic Arts and Gameloft).

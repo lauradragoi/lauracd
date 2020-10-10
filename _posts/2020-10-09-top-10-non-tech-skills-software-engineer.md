@@ -3,7 +3,7 @@ layout: single
 title:  "Top 10 Non-tech Skills You Need as a Software Engineer"
 ---
 
-*I’ve been working for 15 years as a software engineer at top tier tech companies and I’ve had to learn a much more diverse skill set than I could have originally imagined. For me, software engineering started out as the passion to build my own small apps or to solve algorithmic challenges during high-school. Little did I expect that those skills were only the tip of the iceberg in terms of what you need to know.*
+*I’ve been working for 15 years as a software engineer at top-tier tech companies and I’ve had to learn a much more diverse skill set than I could have originally imagined. For me, software engineering started as the passion to build small apps or to solve algorithmic challenges during high school. Little did I expect that those skills were only the tip of the iceberg in terms of what you need to know.*
 
 ## 1. Diligence
 
@@ -41,7 +41,7 @@ The people you work with may at times have very different opinions from yours. T
 
 ## 7. Leadership
 
-Even as an individual contributor, you will have to influence others in order to reach your goals (e.g. accept your code contributions or your new ideas). When working with a team, a good leader will be able to explain the goals of the team and project and motivate the team to achieve them. A good team lead will drive change without **micromanaging** (*management style whereby a manager closely observes and/or controls and/or reminds the work of his/her subordinates or employees*) the team members.
+Even as an individual contributor, you will have to influence others to reach your goals (e.g. accept your code contributions or your new ideas). When working with a team, a good leader will be able to explain the goals of the team and project and motivate the team to achieve them. A good team lead will drive change without **micromanaging** (*management style whereby a manager closely observes and/or controls and/or reminds the work of his/her subordinates or employees*) the team members.
 
 ## 8. Empowering others  
 
@@ -49,8 +49,8 @@ This goes hand in hand with other leadership skills like being a good motivator 
 
 ## 9. Time management skills
 
-There are so many ways in which you can make software better. You can refactor it to use that fancy new technology. You could add those feature requests that clients have been dreaming about. You could fix that annoying bug that has been there since last quarter.
-Time however is a limited resource and the only thing that is sure is that you will not be able to do everything. Setting the right priorities (and sticking to them!) is mandatory. Thinking you can just put in a few extra hours to finish that one thing is naive and will only lead to unhappiness and burnout in the long run.
+There are many ways in which you can make software better. You can refactor it to use that fancy new technology. You could add those feature requests that clients have been dreaming about. You could fix that annoying bug that has been there since last quarter.
+Time, however, is a limited resource so you will not be able to do everything. Setting the right priorities (and sticking to them!) is mandatory. Thinking you can just put in a few extra hours to finish that one thing is naive and will only lead to unhappiness and burnout in the long run.
 
 ## 10. Kindness
 

@@ -46,6 +46,7 @@ author:
 
 include:
   - "_pages"
+  - "_posts"
 
 defaults:
   # _posts

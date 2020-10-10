@@ -1,5 +1,7 @@
 main:
   - title: "Bio"
     url: "/"
+  - title: "Blog"
+    url: "/blog"
   - title: "CV"
     url: "https://linkedin.com/in/lauradragoi"
